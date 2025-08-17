@@ -1,18 +1,20 @@
 body{
-    background-color: #05000a;
+  /* found on heropatterns.com */
+    background-color: #070012;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%23361866' fill-opacity='0.4' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
     text-align: center;
     vertical-align: center;
 }
 h1{
-    color: rgb(56, 1, 107);
-    font-family: 'Courier New', Courier, monospace;   
-    padding:70px 0;
+    color: rgb(54, 46, 167);
+    font-family: 'Stencil Std, fantasy';   
+    padding:20px 0;
     border: 5px, rgb(56, 1, 107);
 }
 h2{
     color: rgb(53, 53, 201);
-    font-family: 'Courier New', Courier, monospace;
-    padding: 35px 0;
+    font-family: 'Jazz LET, fantasy';
+    padding: 10px 0;
     font-size: 35px;
 }
 p{
@@ -30,4 +32,20 @@ h3{
     font-family: 'Courier New', Courier, monospace;
     padding: 5px 0;
     font-size: 25px;
+}
+h4{
+    color: rgb(53, 53, 201);
+    font-family: 'Jazz LET, fantasy';
+    padding: 0px 0;
+    font-size: 45px;
+}
+.center{
+  margin-left: auto;
+  margin-right: auto;
+}
+.rant{
+  padding-left: 250px;
+  padding-right: 250px;
+  padding-bottom: 10px;
+  padding-top: 10px;
 }
