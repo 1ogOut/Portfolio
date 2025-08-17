@@ -14,3 +14,7 @@ Beebo-writing.png
 beebo-sad.png
 cover-art-filler.png
 Mr.Tenna.jpg
+
+
+To-do: Add Alts for images, give the pages(excpet for rants, I feel like that's better without anything) a bit more flare, 
+optional)find a way to put all the images into 1 file, while still showing up properly so its a bit easier to organize
