@@ -1,6 +1,6 @@
 body{
   /* found on heropatterns.com */
-    background-color: #070012;
+    background-color: #090322;
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%23361866' fill-opacity='0.4' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
     text-align: center;
     vertical-align: center;
@@ -48,4 +48,16 @@ h4{
   padding-right: 250px;
   padding-bottom: 10px;
   padding-top: 10px;
+}
+.corner{
+  position:absolute ;
+  top:20px;
+  right:40px;
+  ;
+}
+.title{
+    color: rgb(169, 116, 255);
+    font-family: 'Jazz LET, fantasy';
+    padding: 5px 0;
+    font-size: 30px
 }
